@@ -1,0 +1,7 @@
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+langchain-classic
+flask
+jsonify
+requests
